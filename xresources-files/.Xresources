@@ -1,0 +1,5 @@
+#include "/home/wraith/.config/xresources/configuration/urxvt.conf"
+#include "/home/wraith/.config/xresources/configuration/xft.conf"
+#include "/home/wraith/.config/xresources/configuration/xterm.conf"
+#include "/home/wraith/.config/xresources/configuration/xft.conf"
+#include "/home/wraith/.config/xresources/colorschemes/yarra-valley.conf"
