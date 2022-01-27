@@ -9,6 +9,6 @@ export AWT_TOOLKIT=MToolkit
 export GTK_IM_MODULE=ibus
 export XMODIFIER=@im=ibus
 export QT_IM_MODULE=ibus
-export USER_CUSTOM="/home/wraith/.config/user_custom"
-export SHELL_UTILS="${HOME}/.config/shell-utils/"
+export SHELL_UTILS="${HOME}/.config/shell-utils"
+export XRESOURCES="${HOME}/.config/xresources"
 exec bspwm
